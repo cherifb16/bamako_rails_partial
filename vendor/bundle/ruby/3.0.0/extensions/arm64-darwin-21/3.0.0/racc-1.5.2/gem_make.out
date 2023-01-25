@@ -1,0 +1,17 @@
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/cherifisimbi/.rbenv/versions/3.0.1/bin/ruby -I /Users/cherifisimbi/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-h0vitc sitelibdir\=./.gem.20230125-14199-h0vitc clean
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-h0vitc sitelibdir\=./.gem.20230125-14199-h0vitc
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-h0vitc sitelibdir\=./.gem.20230125-14199-h0vitc install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230125-14199-h0vitc/racc

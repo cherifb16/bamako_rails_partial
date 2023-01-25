@@ -1,0 +1,16 @@
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/cherifisimbi/.rbenv/versions/3.0.1/bin/ruby -I /Users/cherifisimbi/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-j2o4gy sitelibdir\=./.gem.20230125-14199-j2o4gy clean
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-j2o4gy sitelibdir\=./.gem.20230125-14199-j2o4gy
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-j2o4gy sitelibdir\=./.gem.20230125-14199-j2o4gy install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230125-14199-j2o4gy/skiptrace/internal

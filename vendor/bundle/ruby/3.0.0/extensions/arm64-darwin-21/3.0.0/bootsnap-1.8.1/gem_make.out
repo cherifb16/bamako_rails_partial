@@ -1,0 +1,16 @@
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.8.1/ext/bootsnap
+/Users/cherifisimbi/.rbenv/versions/3.0.1/bin/ruby -I /Users/cherifisimbi/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.8.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-2fxn5j sitelibdir\=./.gem.20230125-14199-2fxn5j clean
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.8.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-2fxn5j sitelibdir\=./.gem.20230125-14199-2fxn5j
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/cherifisimbi/workspace/dive-into-code/cdp_web_rails_view_practice/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.8.1/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230125-14199-2fxn5j sitelibdir\=./.gem.20230125-14199-2fxn5j install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230125-14199-2fxn5j/bootsnap
